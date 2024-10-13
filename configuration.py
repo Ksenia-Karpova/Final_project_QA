@@ -1,5 +1,5 @@
 # Базовый URL
-URL_SERVICE = "https://c383be4b-51dc-4847-bfa1-b6c93e27a841.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://a62afee7-a7ff-4f9b-9d7e-954dcb50dad2.serverhub.praktikum-services.ru"
 
 # "Эндпоинты"
 CREATE_ORDER_PATH = "/api/v1/orders"
